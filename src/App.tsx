@@ -8,8 +8,7 @@ function App() {
         <div className="container">
             <h1>Welcome to Tauri!</h1>
             <Button>gaggi</Button>
-            <div className='flex'>
-            </div>
+            <div className="flex"></div>
         </div>
     );
 }
